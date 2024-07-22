@@ -1,2 +1,2 @@
 # Dentytech
-It a landing page for showing the Html and Css tags is been used well.
+I created a visually appealing and responsive webpage for Dentytech, highlighting the company's advantages. The webpage features a sleek navigation bar with menu and authentication buttons, a prominent central heading, and a rotating gallery of images showcasing advanced dental technology. The layout includes a balanced mix of text and visuals, with strategic positioning of elements to ensure a professional look. CSS was utilized extensively to style and position the components, ensuring a clean, modern, and user-friendly design. The project showcases my skills in HTML and CSS, resulting in an engaging web page that effectively communicates Dentytech's strengths.
